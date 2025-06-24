@@ -1,5 +1,7 @@
 # Proof of concept - MCP server for ImageJ / Fiji
 
+See how it can look here: https://bsky.app/profile/nkiaru.bsky.social/post/3lrvofh64n225
+
 This repo contains a basic MCP server for ImageJ/Fiji. It consists of 2 repositories:
 
 * **fiji-tools**: (Java) contains a few functions that facilitates the comminucation with a LLM. The GUI for coding (editor) is easily accessible to a user, but not to a bot
