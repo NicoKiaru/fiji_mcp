@@ -1,0 +1,14 @@
+
+/.idea/
+/fiji-tools/.idea/
+/fiji-tools/target/
+/fiji-tools/.classpath
+/fiji-tools/.project
+/fiji-tools/.settings/
+/fiji-tools/*.releaseBackup
+
+/fiji_mcp/.venv/
+/fiji_mcp/.idea/
+/fiji_mcp/uv.lock
+/fiji_mcp/__pycache__/
+/fiji_mcp/tools/__pycache__/
